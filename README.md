@@ -1,7 +1,7 @@
 # Towers-of-Hanoi
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
 
-##Objective
+## Objective
 The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
 
 The game follows three rules:
@@ -10,7 +10,7 @@ The game follows three rules:
  - No disk may be placed on top of a smaller disk.
 In this project, I have used stacks to implement this game! 
 
-##Play the game,
+## Play the game,
 Download this repo or pull it. Then simply run the following,
 ```python3 towers_of_hanoi.py```
 If you choose 3 then you may end up finishing the game with optimal moves like me,
